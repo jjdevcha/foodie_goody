@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "name": "foodie_goody",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjdevcha/foodie_goody.git"
+  },
+  "author": "JJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjdevcha/foodie_goody/issues"
+  },
+  "homepage": "https://github.com/jjdevcha/foodie_goody#readme",
+  "description": ""
+}
