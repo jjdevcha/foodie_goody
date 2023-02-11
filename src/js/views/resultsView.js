@@ -1,27 +1,28 @@
-import View from './View.js';
+import View from "./View.js";
 
 class ResultsView extends View {
-    _parentElement = document.querySelector(".search");
-  
-    getQuery() {
-      const query = this._parentElement.querySelector(".search__field").value;
-      this._clearInput();
-      return query;
-    }
-  
-    _clearInput() {
-      this._parentElement.querySelector(".search__field").value = "";
-    }
+  _parentElement = document.querySelector(".results");
 
-    _generateResultItemMarkup(recipe) {
-        return `
-            <li class="results_item">
-                <img src="${recipe.image}" alt="${recipe.title}">
-                <span class="title">${recipe.title}</span>
-            </li>        
+  _generateMarkup() {
+    return this._data
+      .map((result) => this._generateItemMarkup(result))
+      .join("");
+  }
+
+  _generateItemMarkup(res) {
+    return `
+        <li class="preview">
+          <a href="${res.id}" class="preview__link">
+            <figure class="preview__fig">
+              <img src="${res.image}" alt="${res.title}" />
+            </figure>
+            <div class="preview__data">
+              <h4 class="preview__title">${res.title}</h4>
+            </div>
+          </a>
+        </li>     
         `;
-    }
+  }
 }
 
 export default new ResultsView();
-
