@@ -1,7 +1,23 @@
 import resultsView from "./views/resultsView.js";
 import searchView from "./views/searchView.js";
+import recipeView from "./views/recipeView.js";
 import * as model from "./model.js";
 
+const controlRecipes = async function () {
+  try {
+    const id = window.location.hash.slice(1);
+
+    if (!id) return;
+
+    // Load Recipe
+    await model.loadRecipe(id);
+
+    // Rendering recipe
+    recipeView.render(model.state.recipe);
+  } catch (error) {
+    console.log(error);
+  }
+};
 const controlSearchResults = async function (e) {
   try {
     // 1) Get search query
@@ -17,4 +33,14 @@ const controlSearchResults = async function (e) {
   }
 };
 
+const controlServings = function (newServings) {
+  // Update the recipe servings (in state)
+  model.updateServings(newServings);
+
+  // Update the recipe view
+  recipeView.render(model.state.recipe);
+};
+
 searchView.addHandlerSearch(controlSearchResults);
+recipeView.addHandlerRender(controlRecipes);
+recipeView.addHandlerUpdateServings(controlServings);

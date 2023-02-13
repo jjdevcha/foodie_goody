@@ -9,6 +9,21 @@ export const state = {
   bookmarks: [],
 };
 
+const createRecipeObject = function (data) {
+  const recipe = data;
+
+  return {
+    id: recipe.id,
+    title: recipe.title,
+    sourceName: recipe.sourceName,
+    sourceUrl: recipe.sourceUrl,
+    image: recipe.image,
+    servings: recipe.servings,
+    readyInMinutes: recipe.readyInMinutes,
+    ingredients: recipe.extendedIngredients,
+  };
+};
+
 export const loadSearchResult = async function (query) {
   try {
     state.search.query = query;
@@ -18,7 +33,7 @@ export const loadSearchResult = async function (query) {
     );
     const data = await res.json();
 
-    console.log(data);
+    // console.log(data);
 
     state.search.results = data.results.map((rec) => {
       return {
@@ -28,11 +43,33 @@ export const loadSearchResult = async function (query) {
       };
     });
 
-    console.log("state.search.results", state.search.results);
-
     state.search.page = 1;
   } catch (error) {
     console.log(error);
     throw error;
   }
+};
+
+export const loadRecipe = async function (id) {
+  try {
+    const res = await fetch(
+      `https://api.spoonacular.com/recipes/${id}/information?includeNutrition=false&apiKey=2eaf4c1b5b594a09a576c6008073c3a0`
+    );
+    const data = await res.json();
+
+    // console.log(data);
+
+    state.recipe = createRecipeObject(data);
+  } catch (error) {
+    console.log(error);
+    throw error;
+  }
+};
+
+export const updateServings = function (newServings) {
+  state.recipe.ingredients.forEach((ing) => {
+    ing.amount = (ing.amount / state.recipe.servings) * newServings;
+  });
+
+  state.recipe.servings = newServings;
 };

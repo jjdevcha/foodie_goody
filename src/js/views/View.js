@@ -5,13 +5,11 @@ export default class View {
     if (!data || (Array.isArray(data) && data.length === 0)) return Error;
 
     this._data = data;
-    console.log("this._data", this._data);
     const markup = this._generateMarkup();
 
     if (!render) return markup;
 
     this._clear();
-    console.log("this._parentEl", this._parentElement);
     this._parentElement.insertAdjacentHTML("afterbegin", markup);
   }
 

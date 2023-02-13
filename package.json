@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "live-server": "^1.2.2"
+    "fracty": "^1.0.11",
+    "live-server": "^1.1.0"
   },
   "name": "foodie_goody",
   "version": "1.0.0",

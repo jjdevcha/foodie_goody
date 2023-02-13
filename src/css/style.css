@@ -61,9 +61,47 @@ a {
 
 .preview__link {
   display: flex;
+  align-items: center;
+}
+
+.preview__fig img {
+  width: 58px;
+  height: 58px;
+  overflow: hidden;
+  border-radius: 50px;
+  margin: 1.1rem;
 }
 
 /* RECIPE SECTION */
 .recipe {
   grid-area: recipe;
+}
+
+.recipe__img {
+  width: 100%;
+  object-fit: fill;
+  display: block;
+}
+
+.recipe__details {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.recipe__info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.recipe__info-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.recipe__ingredient {
+  display: flex;
+  align-items: center;
+  gap: 1em;
 }
