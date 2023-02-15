@@ -1,4 +1,5 @@
 import View from "./View.js";
+import fracty from "fracty";
 
 class RecipeView extends View {
   _parentElement = document.querySelector(".recipe");
@@ -10,11 +11,18 @@ class RecipeView extends View {
   addHandlerUpdateServings(handler) {
     this._parentElement.addEventListener("click", function (e) {
       const btn = e.target.closest(".btn--update-servings");
-      console.log(btn);
       if (!btn) return;
       const updateTo = +btn.dataset.updateTo;
       console.log(updateTo);
       if (updateTo > 0) handler(updateTo);
+    });
+  }
+
+  addHandlerAddBookmark(handler) {
+    this._parentElement.addEventListener("click", function (e) {
+      const btn = e.target.closest(".btn--bookmark");
+      if (!btn) return;
+      handler();
     });
   }
 
@@ -60,7 +68,7 @@ class RecipeView extends View {
                 </div>
 
                 <button class="btn--round">
-                <i class="fa-regular fa-bookmark"></i>
+                <i class="fa-regular fa-bookmark btn--bookmark"></i>
                 <!-- <i class="fa-solid fa-bookmark"></i> filled -->
                 </button>
 
@@ -98,7 +106,9 @@ class RecipeView extends View {
     return `
             <li class="recipe__ingredient">
                 <i class="fa-solid fa-check"></i>
-                <div class="recipe__quantity">${ing.amount}</div>
+                <div class="recipe__quantity">${
+                  ing.amount ? fracty(ing.amount) : ""
+                }</div>
                 <div class="recipe__description">
                     <span class="recipe__unit">${ing.unit}</span>
                     <span class="recipe__ing">${ing.name}</span>
