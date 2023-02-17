@@ -1,4 +1,4 @@
-5899
+5901
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\map-stream\index.js133205662378470601 0
 50C:\Users\Jung In\Desktop\foodie_goody\package.json133209369447421410 0
 75C:\Users\Jung In\Desktop\foodie_goody\node_modules\@lezer\lr\dist\index.cjs133209363848229681 0
@@ -29,7 +29,7 @@
 99C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\node-resolver-core\test\fixture\packages133209363862556716 1
 95C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_edit.png133205662380423428 0
 71C:\Users\Jung In\Desktop\foodie_goody\node_modules\colors\lib\colors.js133205662376385433 0
-42C:\Users\Jung In\Desktop\foodie_goody\dist133209405125683187 1
+42C:\Users\Jung In\Desktop\foodie_goody\dist133210864300975217 1
 78C:\Users\Jung In\Desktop\foodie_goody\node_modules\source-map-url\package.json133207658751052163 0
 77C:\Users\Jung In\Desktop\foodie_goody\node_modules\yaml\browser\dist\index.js133209363852001738 0
 85C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\core\lib\PackagerRunner.js133209363864576697 0
@@ -62,7 +62,7 @@
 113C:\Users\Jung In\Desktop\foodie_goody\node_modules\source-map-support\node_modules\source-map\lib\mapping-list.js133209363852805253 0
 98C:\Users\Jung In\Desktop\foodie_goody\node_modules\unset-value\node_modules\has-value\node_modules133207658748314356 1
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\statuses\HISTORY.md133205662381250101 0
-48C:\Users\Jung In\Desktop\foodie_goody\index.html133207578925362182 0
+48C:\Users\Jung In\Desktop\foodie_goody\index.html133210858826153519 0
 86C:\Users\Jung In\Desktop\foodie_goody\node_modules\svgo\plugins\convertStyleToAttrs.js133209363857007607 0
 78C:\Users\Jung In\Desktop\foodie_goody\node_modules\cosmiconfig\dist\types.d.ts133209363860081597 0
 61C:\Users\Jung In\Desktop\foodie_goody\node_modules\uuid\v5.js133207658752966721 0
@@ -125,7 +125,7 @@
 105C:\Users\Jung In\Desktop\foodie_goody\node_modules\expand-brackets\node_modules\define-property\README.md133207658750580980 0
 87C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-tree\lib\syntax\config\parser.js133209363864845976 0
 81C:\Users\Jung In\Desktop\foodie_goody\node_modules\yaml\dist\warnings-1000a372.js133209363861004155 0
-58C:\Users\Jung In\Desktop\foodie_goody\src\js\controller.js133209389495692137 0
+58C:\Users\Jung In\Desktop\foodie_goody\src\js\controller.js133210862674557724 0
 84C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-tree\lib\syntax\node\Block.js133209363853053251 0
 97C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node133209363859903037 0
 74C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\bundler-default133209363851123824 1
@@ -133,7 +133,7 @@
 59C:\Users\Jung In\Desktop\foodie_goody\node_modules\anymatch133207658751706893 1
 96C:\Users\Jung In\Desktop\foodie_goody\node_modules\unset-value\node_modules\has-values\README.md133207658750491686 0
 75C:\Users\Jung In\Desktop\foodie_goody\node_modules\stream-combiner\index.js133205662381292318 0
-53C:\Users\Jung In\Desktop\foodie_goody\src\js\model.js133209405125440143 0
+53C:\Users\Jung In\Desktop\foodie_goody\src\js\model.js133210853402570985 0
 73C:\Users\Jung In\Desktop\foodie_goody\node_modules\type-fest\package.json133209363844985292 0
 66C:\Users\Jung In\Desktop\foodie_goody\node_modules\is-plain-object133207658752118566 1
 59C:\Users\Jung In\Desktop\foodie_goody\node_modules\to-regex133207658751612654 1
@@ -143,18 +143,30 @@
 64C:\Users\Jung In\Desktop\foodie_goody\node_modules\svgo\bin\svgo133209363847495601 0
 86C:\Users\Jung In\Desktop\foodie_goody\node_modules\postcss-value-parser\lib\index.d.ts133209363852760613 0
 83C:\Users\Jung In\Desktop\foodie_goody\node_modules\abortcontroller-polyfill\LICENSE133209363844484343 0
-50C:\Users\Jung In\Desktop\foodie_goody\src\js\views133207531487469721 1
+50C:\Users\Jung In\Desktop\foodie_goody\src\js\views133210853680287094 1
+75C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\package.json133205662380218980 0
+68C:\Users\Jung In\Desktop\foodie_goody\node_modules\binary-extensions133207658751582892 1
+96C:\Users\Jung In\Desktop\foodie_goody\node_modules\snapdragon\node_modules\is-descriptor\LICENSE133207658751275376 0
+65C:\Users\Jung In\Desktop\foodie_goody\node_modules\string_decoder133207658752088806 1
+94C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\workers\test\integration\workerfarm133209363858168261 1
+73C:\Users\Jung In\Desktop\foodie_goody\node_modules\picomatch\package.json133209363852507662 0
+89C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\push-api.js133209363874578561 0
+67C:\Users\Jung In\Desktop\foodie_goody\src\js\views\bookmarksView.js133210864300747069 0
 103C:\Users\Jung In\Desktop\foodie_goody\node_modules\split-string\node_modules\is-extendable\package.json133207658750065133 0
 74C:\Users\Jung In\Desktop\foodie_goody\node_modules\bcryptjs\tests\suite.js133207658753368486 0
 91C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\node-resolver-core\src\_empty.js133209363848214814 0
 66C:\Users\Jung In\Desktop\foodie_goody\node_modules\fresh\README.md133205662377333013 0
-64C:\Users\Jung In\Desktop\foodie_goody\src\js\views\recipeView.js133209390019224805 0
+64C:\Users\Jung In\Desktop\foodie_goody\src\js\views\recipeView.js133210841944052159 0
 100C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\input-file-multiple.js133209363871726561 0
 103C:\Users\Jung In\Desktop\foodie_goody\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133209363865237817 0
 69C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-what\readme.md133209363856521529 0
 85C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\packager-js\src\helpers.js133209363853618690 0
 75C:\Users\Jung In\Desktop\foodie_goody\node_modules\timsort\build\timsort.js133209363851634696 0
-65C:\Users\Jung In\Desktop\foodie_goody\src\js\views\resultsView.js133207563648262078 0
+65C:\Users\Jung In\Desktop\foodie_goody\node_modules\urix\.jshintrc133207658751657288 0
+65C:\Users\Jung In\Desktop\foodie_goody\src\js\views\previewView.js133210853153425911 0
+85C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\dist\lib\supported.js133209363875600329 0
+81C:\Users\Jung In\Desktop\foodie_goody\node_modules\type-fest\source\asyncify.d.ts133209363851054381 0
+65C:\Users\Jung In\Desktop\foodie_goody\src\js\views\resultsView.js133210851534413033 0
 57C:\Users\Jung In\Desktop\foodie_goody\node_modules\stable133209363850474058 1
 71C:\Users\Jung In\Desktop\foodie_goody\node_modules\object.pick\index.js133207658751811043 0
 84C:\Users\Jung In\Desktop\foodie_goody\node_modules\update-browserslist-db\index.d.ts133209363852200137 0
@@ -177,7 +189,7 @@
 76C:\Users\Jung In\Desktop\foodie_goody\node_modules\svgo\dist\svgo.browser.js133209363862398002 0
 68C:\Users\Jung In\Desktop\foodie_goody\node_modules\map-visit\LICENSE133207658751076971 0
 68C:\Users\Jung In\Desktop\foodie_goody\node_modules\entities\lib\maps133209363854149423 1
-55C:\Users\Jung In\Desktop\foodie_goody\src\css\style.css133207619858005631 0
+55C:\Users\Jung In\Desktop\foodie_goody\src\css\style.css133210808458558460 0
 95C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\node_modules\http-errors\LICENSE133205662380155470 0
 55C:\Users\Jung In\Desktop\foodie_goody\node_modules\.bin133209363879238066 1
 79C:\Users\Jung In\Desktop\foodie_goody\node_modules\entities\lib\encode.d.ts.map133209363856476887 0
@@ -198,20 +210,6 @@
 85C:\Users\Jung In\Desktop\foodie_goody\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map133209363851808298 0
 57C:\Users\Jung In\Desktop\foodie_goody\node_modules\@lezer133209363835293952 1
 89C:\Users\Jung In\Desktop\foodie_goody\node_modules\svgo\plugins\addClassesToSVGElement.js133209363852780455 0
-73C:\Users\Jung In\Desktop\foodie_goody\node_modules\util-deprecate\LICENSE133207658751131527 0
-95C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_find.png133205662380438310 0
-99C:\Users\Jung In\Desktop\foodie_goody\node_modules\websocket-driver\lib\websocket\driver\draft76.js133205662381880608 0
-88C:\Users\Jung In\Desktop\foodie_goody\node_modules\snapdragon\node_modules\is-descriptor133207658751592805 1
-95C:\Users\Jung In\Desktop\foodie_goody\node_modules\is-descriptor\node_modules\kind-of\README.md133207658752287203 0
-64C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\graph133209363856481847 1
-71C:\Users\Jung In\Desktop\foodie_goody\node_modules\term-size\index.d.ts133209363852949091 0
-73C:\Users\Jung In\Desktop\foodie_goody\node_modules\source-map-url\LICENSE133207658749881613 0
-121C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133209363862328558 0
-100C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_cplusplus.png133205662380403588 0
-99C:\Users\Jung In\Desktop\foodie_goody\node_modules\snapdragon\node_modules\define-property\index.js133207658751865601 0
-56C:\Users\Jung In\Desktop\foodie_goody\node_modules\clone133209363851198224 1
-70C:\Users\Jung In\Desktop\foodie_goody\node_modules\term-size\readme.md133209363852696134 0
-93C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\css-overflow.js133209363867505400 0
 94C:\Users\Jung In\Desktop\foodie_goody\node_modules\websocket-extensions\lib\pipeline\pledge.js133205662381969476 0
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\expand-brackets\lib133207658752654246 1
 100C:\Users\Jung In\Desktop\foodie_goody\node_modules\snapdragon\node_modules\define-property\README.md133207658750665295 0
@@ -299,7 +297,7 @@
 55C:\Users\Jung In\Desktop\foodie_goody\node_modules\base133207658751548164 1
 60C:\Users\Jung In\Desktop\foodie_goody\node_modules\map-visit133207658751528325 1
 94C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_get.png133205662380453190 0
-64C:\Users\Jung In\Desktop\foodie_goody\dist\index.e37f48ea.js.map133209405125668309 0
+64C:\Users\Jung In\Desktop\foodie_goody\dist\index.e37f48ea.js.map133210864300965307 0
 71C:\Users\Jung In\Desktop\foodie_goody\node_modules\kind-of\package.json133207658750030413 0
 90C:\Users\Jung In\Desktop\foodie_goody\node_modules\terser\node_modules\commander\Readme.md133209363851004779 0
 83C:\Users\Jung In\Desktop\foodie_goody\node_modules\lmdb\dependencies\lmdb\libraries133209363848438000 1
@@ -318,9 +316,6 @@
 55C:\Users\Jung In\Desktop\foodie_goody\node_modules\lmdb133209363866438999 1
 72C:\Users\Jung In\Desktop\foodie_goody\node_modules\entities\package.json133209363853593896 0
 61C:\Users\Jung In\Desktop\foodie_goody\node_modules\color-name133209363848814161 1
-75C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\package.json133205662380218980 0
-68C:\Users\Jung In\Desktop\foodie_goody\node_modules\binary-extensions133207658751582892 1
-96C:\Users\Jung In\Desktop\foodie_goody\node_modules\snapdragon\node_modules\is-descriptor\LICENSE133207658751275376 0
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\posthtml\lib\api.js133209363847495601 0
 106C:\Users\Jung In\Desktop\foodie_goody\node_modules\source-map-support\node_modules\source-map\CHANGELOG.md133209363855762651 0
 76C:\Users\Jung In\Desktop\foodie_goody\node_modules\remove-trailing-separator133207658752713762 1
@@ -336,6 +331,20 @@
 75C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-select\lib\sort.d.ts133209363858460884 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\DE.js133209363869524112 0
 62C:\Users\Jung In\Desktop\foodie_goody\node_modules\class-utils133207658751538246 1
+73C:\Users\Jung In\Desktop\foodie_goody\node_modules\util-deprecate\LICENSE133207658751131527 0
+95C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_find.png133205662380438310 0
+99C:\Users\Jung In\Desktop\foodie_goody\node_modules\websocket-driver\lib\websocket\driver\draft76.js133205662381880608 0
+88C:\Users\Jung In\Desktop\foodie_goody\node_modules\snapdragon\node_modules\is-descriptor133207658751592805 1
+95C:\Users\Jung In\Desktop\foodie_goody\node_modules\is-descriptor\node_modules\kind-of\README.md133207658752287203 0
+64C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\graph133209363856481847 1
+71C:\Users\Jung In\Desktop\foodie_goody\node_modules\term-size\index.d.ts133209363852949091 0
+73C:\Users\Jung In\Desktop\foodie_goody\node_modules\source-map-url\LICENSE133207658749881613 0
+121C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133209363862328558 0
+100C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_cplusplus.png133205662380403588 0
+99C:\Users\Jung In\Desktop\foodie_goody\node_modules\snapdragon\node_modules\define-property\index.js133207658751865601 0
+56C:\Users\Jung In\Desktop\foodie_goody\node_modules\clone133209363851198224 1
+70C:\Users\Jung In\Desktop\foodie_goody\node_modules\term-size\readme.md133209363852696134 0
+93C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\css-overflow.js133209363867505400 0
 98C:\Users\Jung In\Desktop\foodie_goody\node_modules\is-descriptor\node_modules\kind-of\CHANGELOG.md133207658751796170 0
 64C:\Users\Jung In\Desktop\foodie_goody\node_modules\color-convert133209363851773577 1
 101C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133209363861911916 0
@@ -393,9 +402,6 @@
 85C:\Users\Jung In\Desktop\foodie_goody\node_modules\svgo\plugins\removeStyleElement.js133209363861485358 0
 96C:\Users\Jung In\Desktop\foodie_goody\node_modules\lmdb\node_modules\node-addon-api\package.json133209363856496726 0
 71C:\Users\Jung In\Desktop\foodie_goody\node_modules\decode-uri-component133207658751518404 1
-78C:\Users\Jung In\Desktop\foodie_goody\node_modules\node-addon-api\node_api.gyp133209363844866258 0
-80C:\Users\Jung In\Desktop\foodie_goody\node_modules\unix-crypt-td-js\test\test.js133205662381532794 0
-66C:\Users\Jung In\Desktop\foodie_goody\node_modules\define-property133207658752163204 1
 140C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json133209363864736872 0
 65C:\Users\Jung In\Desktop\foodie_goody\node_modules\send\README.md133205662379993707 0
 85C:\Users\Jung In\Desktop\foodie_goody\node_modules\xxhash-wasm\cjs\xxhash-wasm.js.map133209363851208140 0
@@ -405,6 +411,9 @@
 69C:\Users\Jung In\Desktop\foodie_goody\node_modules\negotiator\LICENSE133205662379123374 0
 81C:\Users\Jung In\Desktop\foodie_goody\node_modules\nth-check\lib\esm\compile.d.ts133209363856997687 0
 83C:\Users\Jung In\Desktop\foodie_goody\node_modules\update-browserslist-db\README.md133209363851758696 0
+78C:\Users\Jung In\Desktop\foodie_goody\node_modules\node-addon-api\node_api.gyp133209363844866258 0
+80C:\Users\Jung In\Desktop\foodie_goody\node_modules\unix-crypt-td-js\test\test.js133205662381532794 0
+66C:\Users\Jung In\Desktop\foodie_goody\node_modules\define-property133207658752163204 1
 55C:\Users\Jung In\Desktop\foodie_goody\node_modules\depd133205662376700312 1
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\terser\bin\uglifyjs133209363850260781 0
 74C:\Users\Jung In\Desktop\foodie_goody\node_modules\uuid\lib\md5-browser.js133207658752346738 0
@@ -616,8 +625,8 @@
 75C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\node_modules133205662380192990 1
 73C:\Users\Jung In\Desktop\foodie_goody\node_modules\msgpackr\node-index.js133209363857037372 0
 59C:\Users\Jung In\Desktop\foodie_goody\node_modules\inherits133205662377880208 1
-63C:\Users\Jung In\Desktop\foodie_goody\node_modules\toidentifier133205662381486373 1
 67C:\Users\Jung In\Desktop\foodie_goody\node_modules\isarray\index.js133207658751741604 0
+63C:\Users\Jung In\Desktop\foodie_goody\node_modules\toidentifier133205662381486373 1
 95C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\css-gencontent.js133209363866895327 0
 99C:\Users\Jung In\Desktop\foodie_goody\node_modules\split-string\node_modules\extend-shallow\LICENSE133207658751250563 0
 80C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\utils\src\Deferred.js133209363856223939 0
@@ -837,8 +846,8 @@
 62C:\Users\Jung In\Desktop\foodie_goody\node_modules\on-finished133205662379361285 1
 79C:\Users\Jung In\Desktop\foodie_goody\node_modules\type-fest\source\opaque.d.ts133209363857220889 0
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\yaml\browser\map.js133209363853598851 0
-88C:\Users\Jung In\Desktop\foodie_goody\node_modules\unix-crypt-td-js\unix-crypt-td.min.js133205662381532794 0
 54C:\Users\Jung In\Desktop\foodie_goody\node_modules\opn133205662379411273 1
+88C:\Users\Jung In\Desktop\foodie_goody\node_modules\unix-crypt-td-js\unix-crypt-td.min.js133205662381532794 0
 83C:\Users\Jung In\Desktop\foodie_goody\node_modules\type-fest\source\promisable.d.ts133209363857721860 0
 80C:\Users\Jung In\Desktop\foodie_goody\node_modules\dom-serializer\lib\index.d.ts133209363855802328 0
 84C:\Users\Jung In\Desktop\foodie_goody\node_modules\escape-string-regexp\package.json133209363844306252 0
@@ -998,7 +1007,6 @@
 101C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133209363866572918 0
 79C:\Users\Jung In\Desktop\foodie_goody\node_modules\svgo\plugins\cleanupAttrs.js133209363853003650 0
 86C:\Users\Jung In\Desktop\foodie_goody\node_modules\is-accessor-descriptor\package.json133207658749995692 0
-65C:\Users\Jung In\Desktop\foodie_goody\node_modules\string_decoder133207658752088806 1
 78C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-tree\lib\utils\clone.js133209363856080090 0
 99C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133209363856248738 0
 89C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\core\lib\public\Environment.js133209363862045837 0
@@ -1007,9 +1015,9 @@
 87C:\Users\Jung In\Desktop\foodie_goody\node_modules\@swc\helpers\lib\_super_prop_base.js133209363862209528 0
 100C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133209363864979892 0
 60C:\Users\Jung In\Desktop\foodie_goody\node_modules\term-size133209363852904455 1
-67C:\Users\Jung In\Desktop\foodie_goody\node_modules\isarray\Makefile133207658752500496 0
 76C:\Users\Jung In\Desktop\foodie_goody\node_modules\live-server\.editorconfig133207658750114727 0
 72C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\README.md133205662380089849 0
+67C:\Users\Jung In\Desktop\foodie_goody\node_modules\isarray\Makefile133207658752500496 0
 69C:\Users\Jung In\Desktop\foodie_goody\node_modules\is-extglob\LICENSE133207658751220806 0
 87C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-what\lib\commonjs\stringify.d.ts133209363857191127 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\SG.js133209363875173761 0
@@ -1385,9 +1393,6 @@
 69C:\Users\Jung In\Desktop\foodie_goody\node_modules\tslib\tslib.es6.js133209363850424467 0
 89C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-tree\lib\syntax\node\MediaQuery.js133209363862611276 0
 90C:\Users\Jung In\Desktop\foodie_goody\node_modules\utility-types\dist\utility-types.js.map133209363853306220 0
-71C:\Users\Jung In\Desktop\foodie_goody\node_modules\negotiator\README.md133205662379128344 0
-89C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\datalist.js133209363869226510 0
-88C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_add.png133205662380282619 0
 71C:\Users\Jung In\Desktop\foodie_goody\node_modules\ansi-styles\index.js133209363844980350 0
 64C:\Users\Jung In\Desktop\foodie_goody\node_modules\uuid\bin\uuid133207658750828972 0
 101C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_powerpoint.png133205662380517665 0
@@ -1429,9 +1434,6 @@
 63C:\Users\Jung In\Desktop\foodie_goody\node_modules\use\index.js133207658750531375 0
 67C:\Users\Jung In\Desktop\foodie_goody\node_modules\dotenv\config.js133209363848075919 0
 67C:\Users\Jung In\Desktop\foodie_goody\node_modules\use\package.json133207658749951060 0
-65C:\Users\Jung In\Desktop\foodie_goody\node_modules\urix\.jshintrc133207658751657288 0
-85C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\dist\lib\supported.js133209363875600329 0
-81C:\Users\Jung In\Desktop\foodie_goody\node_modules\type-fest\source\asyncify.d.ts133209363851054381 0
 124C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\transformer-react-refresh-wrap\src\ReactRefreshWrapTransformer.js133209363851932301 0
 64C:\Users\Jung In\Desktop\foodie_goody\node_modules\urix\index.js133207658751052163 0
 72C:\Users\Jung In\Desktop\foodie_goody\node_modules\acorn\dist\acorn.d.ts133209363855633687 0
@@ -2211,7 +2213,6 @@
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\LICENSE133205662380084891 0
 87C:\Users\Jung In\Desktop\foodie_goody\node_modules\remove-trailing-separator\history.md133207658752535203 0
 103C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\application_xp_terminal.png133205662380237966 0
-91C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_attach.png133205662380282619 0
 84C:\Users\Jung In\Desktop\foodie_goody\node_modules\htmlnano\lib\modules\minifyCss.js133209363856218968 0
 98C:\Users\Jung In\Desktop\foodie_goody\node_modules\regex-not\node_modules\is-extendable\index.d.ts133207658752197935 0
 83C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\box.png133205662380242940 0
@@ -2225,6 +2226,10 @@
 83C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\map.png133205662380272700 0
 102C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-tree\node_modules\source-map\lib\source-node.js133209363854444157 0
 84C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page.png133205662380277661 0
+71C:\Users\Jung In\Desktop\foodie_goody\node_modules\negotiator\README.md133205662379128344 0
+89C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\datalist.js133209363869226510 0
+88C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_add.png133205662380282619 0
+91C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_attach.png133205662380282619 0
 90C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_error.png133205662380302460 0
 90C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_excel.png133205662380311893 0
 90C:\Users\Jung In\Desktop\foodie_goody\node_modules\readable-stream\lib\_stream_writable.js133207658752550085 0
@@ -2234,7 +2239,7 @@
 95C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\rel-noreferrer.js133209363874727356 0
 84C:\Users\Jung In\Desktop\foodie_goody\node_modules\htmlparser2\lib\WritableStream.js133209363851753734 0
 96C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-tree\node_modules\source-map\package.json133209363844558746 0
-61C:\Users\Jung In\Desktop\foodie_goody\dist\index.c92073ef.css133209369449148984 0
+61C:\Users\Jung In\Desktop\foodie_goody\dist\index.c92073ef.css133210863907516071 0
 87C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_go.png133205662380321841 0
 95C:\Users\Jung In\Desktop\foodie_goody\node_modules\dom-serializer\node_modules\entities\LICENSE133209363844548825 0
 99C:\Users\Jung In\Desktop\foodie_goody\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133209363853479822 0
@@ -2300,8 +2305,8 @@
 97C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_swoosh.png133205662380542474 0
 77C:\Users\Jung In\Desktop\foodie_goody\node_modules\graceful-fs\graceful-fs.js133205662377600707 0
 95C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_text.png133205662380542474 0
-101C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_text_width.png133205662380554938 0
 97C:\Users\Jung In\Desktop\foodie_goody\node_modules\base\node_modules\define-property\package.json133207658749956007 0
+101C:\Users\Jung In\Desktop\foodie_goody\node_modules\serve-index\public\icons\page_white_text_width.png133205662380554938 0
 78C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\package-manager\src133209363858470808 1
 67C:\Users\Jung In\Desktop\foodie_goody\node_modules\json5\lib\cli.js133209363844662892 0
 83C:\Users\Jung In\Desktop\foodie_goody\node_modules\http-auth\src\server\passport.js133207658753011373 0
@@ -2649,8 +2654,6 @@
 86C:\Users\Jung In\Desktop\foodie_goody\node_modules\lightningcss-win32-x64-msvc\LICENSE133209363844524027 0
 73C:\Users\Jung In\Desktop\foodie_goody\node_modules\picomatch\CHANGELOG.md133209363852874694 0
 68C:\Users\Jung In\Desktop\foodie_goody\node_modules\picomatch\LICENSE133209363844306252 0
-94C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\workers\test\integration\workerfarm133209363858168261 1
-73C:\Users\Jung In\Desktop\foodie_goody\node_modules\picomatch\package.json133209363852507662 0
 86C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\runtime-js\lib\helpers\node133209363859440020 1
 70C:\Users\Jung In\Desktop\foodie_goody\node_modules\picomatch\README.md133209363853147492 0
 129C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\index.js133209363859803838 0
@@ -3672,7 +3675,7 @@
 69C:\Users\Jung In\Desktop\foodie_goody\node_modules\faye-websocket\lib133205662377171859 1
 76C:\Users\Jung In\Desktop\foodie_goody\node_modules\faye-websocket\LICENSE.md133205662377161931 0
 78C:\Users\Jung In\Desktop\foodie_goody\node_modules\faye-websocket\package.json133205662377201612 0
-53C:\Users\Jung In\Desktop\foodie_goody\dist\index.html133209369449392035 0
+53C:\Users\Jung In\Desktop\foodie_goody\dist\index.html133210863907511111 0
 74C:\Users\Jung In\Desktop\foodie_goody\node_modules\faye-websocket\lib\faye133205662377176814 1
 87C:\Users\Jung In\Desktop\foodie_goody\node_modules\faye-websocket\lib\faye\websocket.js133205662377176814 0
 92C:\Users\Jung In\Desktop\foodie_goody\node_modules\@swc\helpers\lib\_wrap_async_generator.js133209363862769994 0
@@ -3780,7 +3783,7 @@
 67C:\Users\Jung In\Desktop\foodie_goody\node_modules\error-ex\LICENSE133209363848021378 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\@parcel\bundler-default\LICENSE133209363844519052 0
 67C:\Users\Jung In\Desktop\foodie_goody\node_modules\entities\LICENSE133209363844370732 0
-65C:\Users\Jung In\Desktop\foodie_goody\dist\index.c92073ef.css.map133209369449208504 0
+65C:\Users\Jung In\Desktop\foodie_goody\dist\index.c92073ef.css.map133210863907615296 0
 69C:\Users\Jung In\Desktop\foodie_goody\node_modules\entities\readme.md133209363856769537 0
 74C:\Users\Jung In\Desktop\foodie_goody\node_modules\css-select\package.json133209363855465057 0
 75C:\Users\Jung In\Desktop\foodie_goody\node_modules\entities\lib\decode.d.ts133209363857280406 0
@@ -4456,8 +4459,8 @@
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\PM.js133209363874325595 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\PN.js133209363874335526 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\PS.js133209363874528958 0
-82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\PT.js133209363874548806 0
 92C:\Users\Jung In\Desktop\foodie_goody\node_modules\base\node_modules\define-property\LICENSE133207658751136490 0
+82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\PT.js133209363874548806 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\PW.js133209363874593453 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\QA.js133209363874628171 0
 82C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\regions\RO.js133209363874821606 0
@@ -4724,7 +4727,6 @@
 99C:\Users\Jung In\Desktop\foodie_goody\node_modules\@swc\helpers\src\_class_apply_descriptor_get.mjs133209363864965016 0
 86C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\proxy.js133209363874514084 0
 88C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\svg-img.js133209363875739196 0
-89C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\push-api.js133209363874578561 0
 94C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\readonly-attr.js133209363874662881 0
 104C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\registerprotocolhandler.js133209363874697597 0
 93C:\Users\Jung In\Desktop\foodie_goody\node_modules\caniuse-lite\data\features\rel-noopener.js133209363874712491 0
@@ -5897,4 +5899,4 @@
 62C:\Users\Jung In\Desktop\foodie_goody\node_modules\.bin\terser133209363879243028 0
 60C:\Users\Jung In\Desktop\foodie_goody\node_modules\.bin\uuid133207658753680968 0
 64C:\Users\Jung In\Desktop\foodie_goody\node_modules\.bin\uuid.cmd133207658753680968 0
-60C:\Users\Jung In\Desktop\foodie_goody\dist\index.e37f48ea.js133209405125638549 0
+60C:\Users\Jung In\Desktop\foodie_goody\dist\index.e37f48ea.js133210864300940505 0

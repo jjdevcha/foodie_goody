@@ -21,6 +21,10 @@ a {
   display: grid;
 }
 
+.hidden {
+  display: none;
+}
+
 .header {
   grid-area: header;
   justify-content: space-between;

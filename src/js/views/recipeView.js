@@ -68,8 +68,12 @@ class RecipeView extends View {
                 </div>
 
                 <button class="btn--round">
-                <i class="fa-regular fa-bookmark btn--bookmark"></i>
-                <!-- <i class="fa-solid fa-bookmark"></i> filled -->
+                  ${
+                    this._data.bookmarked
+                      ? `<i class="fa-solid fa-bookmark btn--bookmark bookmarked"></i>`
+                      : `<i class="fa-regular fa-bookmark btn--bookmark not-bookmarked"></i>`
+                  }
+                
                 </button>
 
             </div>

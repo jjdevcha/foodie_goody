@@ -22,6 +22,10 @@ a {
   grid-template-columns: 1fr 2fr;
 }
 
+.hidden {
+  display: none;
+}
+
 /* HEADER SECTION */
 
 .header {

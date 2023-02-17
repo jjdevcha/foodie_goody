@@ -11,6 +11,9 @@ export const state = {
 
 const createRecipeObject = function (data) {
   const recipe = data;
+  const isBookmarked = state.bookmarks.some(
+    (bookmark) => bookmark.id === recipe.id
+  );
 
   return {
     id: recipe.id,
@@ -21,6 +24,7 @@ const createRecipeObject = function (data) {
     servings: recipe.servings,
     readyInMinutes: recipe.readyInMinutes,
     ingredients: recipe.extendedIngredients,
+    bookmarked: isBookmarked,
   };
 };
 
@@ -83,7 +87,7 @@ export const addBookmark = function (recipe) {
   state.bookmarks.push(recipe);
 
   // Mark current recipe as bookmark
-  state.recipe.bookmarked = true;
+  if (recipe.id === state.recipe.id) state.recipe.bookmarked = true;
 
   persistBookmarks();
 };
@@ -94,7 +98,7 @@ export const deleteBookmark = function (id) {
   state.bookmarks.splice(index, 1);
 
   // Mark current recipe as Not bookmarked
-  state.recipe.bookmarked = false;
+  if (id === state.recipe.id) state.recipe.bookmarked = false;
 
   persistBookmarks();
 };
