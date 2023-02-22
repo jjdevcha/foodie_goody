@@ -55,6 +55,33 @@ a {
   display: flex;
 }
 
+.nav__item {
+  position: relative;
+}
+
+.bookmarks {
+  visibility: hidden;
+  width: 15rem;
+  opacity: .85;
+  background-color: #fff;
+  border-radius: 10px;
+  position: absolute;
+  right: -2.5rem;
+}
+
+.nav__btn {
+  cursor: pointer;
+  transition: all .5s;
+}
+
+.nav__btn:hover {
+  background-color: #ff0;
+}
+
+.nav__btn:hover ~ .bookmarks, .bookmarks:hover {
+  visibility: visible;
+}
+
 .search-results {
   grid-area: results;
 }
