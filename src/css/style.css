@@ -23,7 +23,7 @@ a {
 }
 
 .hidden {
-  display: none;
+  visibility: hidden;
 }
 
 /* HEADER SECTION */
@@ -156,6 +156,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   width: 70vw;
   margin: auto;
   border-radius: 20px;
@@ -169,31 +170,37 @@ a {
 
 .btn--close-modal {
   align-self: flex-end;
+  margin: 15px;
+  border: none;
+  background-color: transparent;
 }
 
 .upload {
   display: grid;
-  grid-template-areas: 
-  "recipe-data ingredients"
-  "upload-btn upload-btn";
-  margin: auto;
+  grid-template-areas:
+    "recipe-data ingredients"
+    "upload-btn upload-btn";
+  margin: 15px;
+  width: 80%;
 }
 
 .upload__column-recipe {
   grid-area: recipe-data;
   display: flex;
   flex-direction: column;
-  width: 25rem;
+  margin-right: 15px;
 }
 
 .upload__column-ingredients {
   grid-area: ingredients;
   display: flex;
   flex-direction: column;
-  width: 25rem;
 }
 
 .upload__btn {
   grid-area: upload-btn;
   margin: auto;
+  margin-top: 15px;
+  width: 50%;
+  border-radius: 50px;
 }

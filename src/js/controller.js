@@ -3,6 +3,7 @@ import searchView from "./views/searchView.js";
 import recipeView from "./views/recipeView.js";
 import * as model from "./model.js";
 import bookmarksView from "./views/bookmarksView.js";
+import addRecipeView from "./views/addRecipeView.js";
 
 const controlRecipes = async function () {
   try {
@@ -63,8 +64,18 @@ const controlBookmarks = function () {
   bookmarksView.render(model.state.bookmarks);
 };
 
+const controlAddRecipe = function () {
+  const overlay = document.querySelector(".overlay");
+  const addRecipeForm = document.querySelector(".add-recipe-window");
+
+  overlay.classList.toggle("hidden");
+  addRecipeForm.classList.toggle("hidden");
+};
+
 bookmarksView.addHandlerRender(controlBookmarks);
 searchView.addHandlerSearch(controlSearchResults);
 recipeView.addHandlerRender(controlRecipes);
 recipeView.addHandlerUpdateServings(controlServings);
 recipeView.addHandlerAddBookmark(controlAddBookmark);
+addRecipeView.addHandlerClose(controlAddRecipe);
+addRecipeView.addHandlerOpen(controlAddRecipe);
