@@ -58,6 +58,9 @@ const controlAddBookmark = function () {
 
   // Render bookmarks
   bookmarksView.render(model.state.bookmarks);
+
+  // Having a issue that bookmark view is not getting updated straight away after deleting the bookmark
+  // The result appears when I refresh the page, it's just not automatically doing it :(
 };
 
 const controlBookmarks = function () {
